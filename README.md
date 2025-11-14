@@ -1,4 +1,4 @@
-# Mushroom Classification Project
+# Mushroom Classification 
 
 A comprehensive machine learning project that predicts whether a mushroom is **edible** or **poisonous** using various classification algorithms. This project combines thorough exploratory data analysis with multiple machine learning models to achieve high-accuracy predictions.
 
